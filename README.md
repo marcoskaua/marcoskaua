@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Meu nome César... <br>Sou um desenvolvedor júnior apaixonado por tecnologia, sempre buscando aprender e evoluir na área. Meu maior sonho é ingressar no mercado de trabalho em tecnologia, onde posso aplicar meus conhecimentos e crescer profissionalmente.</p>
+<p align="left">Meu nome Marcos Kauã... <br>Sou um desenvolvedor júnior apaixonado por tecnologia, sempre buscando aprender e evoluir na área. Meu maior sonho é ingressar no mercado de trabalho em tecnologia, onde posso aplicar meus conhecimentos e crescer profissionalmente.</p>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Ficarei feliz em conhecê-lo Confira meu Portfólio!👋 Olá! Meu nome é César Santos e sou um Desenvolvedor Backend.<br>🚀 Meu objetivo é continuar aprendendo tecnologias e desenvolvendo novas aplicações.<br><br>💻 Tecnologias que utilizo:<br>Linguagens:<br>JavaScript | TypeScript | SQL<br>Frameworks & Bibliotecas: Tailwind CSS | Node.js | Next.js | NestJS | React<br>Banco de Dados: SQL Server | MongoDB<br>Ferramentas: Docker</p>
+<p align="left">Ficarei feliz em conhecê-lo Confira meu Portfólio!👋 Olá! Meu nome é Marcos Kauã e sou um Desenvolvedor Backend.<br>🚀 Meu objetivo é continuar aprendendo tecnologias e desenvolvendo novas aplicações.<br><br>💻 Tecnologias que utilizo:<br>Linguagens:<br>JavaScript | TypeScript | SQL<br>Frameworks & Bibliotecas: Tailwind CSS | Node.js | Next.js | NestJS | React<br>Banco de Dados: SQL Server | MongoDB<br>Ferramentas: Docker</p>
 
 ###
 
